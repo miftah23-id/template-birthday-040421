@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Work Sans", sans-serif;
+  font-family: "jalnan", jalnan;
 }
 
 .container {
@@ -296,4 +296,7 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+}
+.underline {
+  text-decoration: underline;
 }
